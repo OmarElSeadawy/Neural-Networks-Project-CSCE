@@ -1,0 +1,9 @@
+unwanted/
+yolov3.pt
+yolov3-spp.pt
+yolov5l.pt
+yolov5.pt
+*.jpg
+**/**/dataset/
+**/**/**/**/images/
+**/**/**/**/labels/
