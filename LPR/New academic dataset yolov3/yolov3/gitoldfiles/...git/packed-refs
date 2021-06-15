@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled sorted 
+98068efebc699e7a652fb495f3e7a23bf296affd refs/remotes/origin/archive
+9e0563133798a32387addf689d3411b2f155fd59 refs/remotes/origin/glenn-jocher-patch-1
+331df67aacd9ed3177430a75e5208c8d896d0938 refs/remotes/origin/master
+7fb729269b6be2ebccc88a1d6d2748bac47fc501 refs/tags/v1.0
+742908257a539ca829db2dcc94df995f9d4a9eb6 refs/tags/v2.0
+d1a1ea233ae16ff248b0c37288ed9f0bbbf91ca7 refs/tags/v3.0
+b56952d70764b2dc895a6cbc4d7bf5b6cb19c743 refs/tags/v4
+5170cd36b0a6c51e8f93f0aa2fda15f874d625dc refs/tags/v5
+fbf0014cd6053695de7c732c42c7748293fb776f refs/tags/v6
+5d42cc1b9a90e26b0b9bffba61fae93f5d1691b9 refs/tags/v7
+98068efebc699e7a652fb495f3e7a23bf296affd refs/tags/v8
+e285034b4b6992605833d4ee32d9df7177d4e32b refs/tags/v9.0
+166a4d590f08b55cadfebc57a11a52ff2fc2b7d3 refs/tags/v9.1
+8eb4cde090022af73db12cfa725ec4bf01d49c0e refs/tags/v9.5.0
