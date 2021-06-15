@@ -1,0 +1,6 @@
+[submodule "LPR/New"]
+	path = LPR/New
+	url = https://github.com/ultralytics/yolov5
+[submodule "yolov5"]
+	path = yolov5
+	url = https://github.com/ultralytics/yolov5
